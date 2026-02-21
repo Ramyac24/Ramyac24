@@ -2,7 +2,7 @@
 
 
 ## About Me
-Hey there! 👋
+Hello Everyone 
 
 🚀 Graduate Profile: Systems & Intelligence
 I am a Computer Science Graduate Student at the University at Buffalo, intensely focused on leveraging systems and advanced algorithms.
